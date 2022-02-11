@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
             }
         }
        var list = mutableListOf<Fragment>()
+//        sdcs s
         list.add(homeFragment())
         list.add(catFragment())
         list.add(proFragment())
